@@ -1,0 +1,171 @@
+{
+	"metadata": [
+		{
+			"id": "firstname",
+			"label": "Name",
+			"type": "string"
+		},
+		{
+			"id": "lastname",
+			"label": "Lastname",
+			"type": "string"
+		},
+		{
+			"id": "email",
+			"label": "Email",
+			"type": "string"
+		},
+		{
+			"id": "age",
+			"label": "Age",
+			"type": "number"
+		},
+		{
+			"id": "updatedAt",
+			"label": "Updated at",
+			"type": "datetime"
+		}
+	],
+	"records": [
+		{
+			"firstname": "Joel",
+			"lastname": "Stroman",
+			"email": "Joel_Stroman69@hotmail.com",
+			"age": 20,
+			"updatedAt": "2021-02-07T15:53:58.112Z"
+		},
+		{
+			"firstname": "Bernice",
+			"lastname": "Mertz",
+			"email": "Bernice94@yahoo.com",
+			"age": 56,
+			"updatedAt": "2019-06-04T09:08:06.348Z"
+		},
+		{
+			"firstname": "Sydnee",
+			"lastname": "Tillman",
+			"email": "Sydnee_Tillman24@gmail.com",
+			"age": 95,
+			"updatedAt": "2021-05-17T00:08:21.444Z"
+		},
+		{
+			"firstname": "Zita",
+			"lastname": "Tillman",
+			"email": "Zita55@gmail.com",
+			"age": 56,
+			"updatedAt": "2016-03-01T04:33:00.171Z"
+		},
+		{
+			"firstname": "Rowan",
+			"lastname": "Erdman",
+			"email": "Rowan_Erdman0@yahoo.com",
+			"age": 26,
+			"updatedAt": "2020-02-20T11:34:18.235Z"
+		},
+		{
+			"firstname": "Annette",
+			"lastname": "Borer",
+			"email": "Annette_Borer69@hotmail.com",
+			"age": 100,
+			"updatedAt": "2022-03-18T07:34:40.640Z"
+		},
+		{
+			"firstname": "Estefania",
+			"lastname": "Metz",
+			"email": "Estefania77@gmail.com",
+			"age": 39,
+			"updatedAt": "2019-07-01T12:22:34.443Z"
+		},
+		{
+			"firstname": "Yvonne",
+			"lastname": "Glover",
+			"email": "Yvonne.Glover@gmail.com",
+			"age": 35,
+			"updatedAt": "2021-05-04T00:56:20.287Z"
+		},
+		{
+			"firstname": "Imelda",
+			"lastname": "Ferry",
+			"email": "Imelda.Ferry@hotmail.com",
+			"age": 87,
+			"updatedAt": "2020-04-20T20:46:09.869Z"
+		},
+		{
+			"firstname": "Gail",
+			"lastname": "Mante",
+			"email": "Gail.Mante@gmail.com",
+			"age": 98,
+			"updatedAt": "2021-07-27T05:55:10.891Z"
+		},
+		{
+			"firstname": "Bonita",
+			"lastname": "Cormier",
+			"email": "Bonita_Cormier@gmail.com",
+			"age": 91,
+			"updatedAt": "2021-01-29T02:07:52.522Z"
+		},
+		{
+			"firstname": "Eldridge",
+			"lastname": "Pfeffer",
+			"email": "Eldridge.Pfeffer@gmail.com",
+			"age": 100,
+			"updatedAt": "2020-12-26T05:16:19.724Z"
+		},
+		{
+			"firstname": "Alexandre",
+			"lastname": "Kub",
+			"email": "Alexandre95@gmail.com",
+			"age": 79,
+			"updatedAt": "2021-06-27T02:55:57.396Z"
+		},
+		{
+			"firstname": "Dashawn",
+			"lastname": "Hintz",
+			"email": "Dashawn_Hintz@gmail.com",
+			"age": 32,
+			"updatedAt": "2019-07-12T20:11:26.814Z"
+		},
+		{
+			"firstname": "Brennan",
+			"lastname": "Champlin",
+			"email": "Brennan_Champlin34@gmail.com",
+			"age": 19,
+			"updatedAt": "2021-01-05T01:38:23.343Z"
+		},
+		{
+			"firstname": "Okey",
+			"lastname": "Wehner",
+			"email": "Okey_Wehner@gmail.com",
+			"age": 86,
+			"updatedAt": "2020-01-16T09:41:02.862Z"
+		},
+		{
+			"firstname": "Blanche",
+			"lastname": "Carter",
+			"email": "Blanche.Carter58@gmail.com",
+			"age": 65,
+			"updatedAt": "2021-11-13T10:35:19.930Z"
+		},
+		{
+			"firstname": "Shad",
+			"lastname": "Tromp",
+			"email": "Shad.Tromp@gmail.com",
+			"age": 78,
+			"updatedAt": "2020-03-03T22:43:29.074Z"
+		},
+		{
+			"firstname": "Michaela",
+			"lastname": "Stracke",
+			"email": "Michaela.Stracke39@yahoo.com",
+			"age": 77,
+			"updatedAt": "2019-10-21T03:01:16.065Z"
+		},
+		{
+			"firstname": "Glen",
+			"lastname": "Koepp",
+			"email": "Glen75@hotmail.com",
+			"age": 87,
+			"updatedAt": "2015-09-22T06:43:26.987Z"
+		}
+	]
+}

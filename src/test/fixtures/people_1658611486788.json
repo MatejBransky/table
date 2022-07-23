@@ -1,0 +1,171 @@
+{
+	"metadata": [
+		{
+			"id": "firstname",
+			"label": "Name",
+			"type": "string"
+		},
+		{
+			"id": "lastname",
+			"label": "Lastname",
+			"type": "string"
+		},
+		{
+			"id": "email",
+			"label": "Email",
+			"type": "string"
+		},
+		{
+			"id": "age",
+			"label": "Age",
+			"type": "number"
+		},
+		{
+			"id": "updatedAt",
+			"label": "Updated at",
+			"type": "datetime"
+		}
+	],
+	"records": [
+		{
+			"firstname": "Antonetta",
+			"lastname": "Schumm",
+			"email": "Antonetta.Schumm@hotmail.com",
+			"age": 65,
+			"updatedAt": "2022-07-02T08:07:08.759Z"
+		},
+		{
+			"firstname": "Syble",
+			"lastname": "Pacocha",
+			"email": "Syble_Pacocha@yahoo.com",
+			"age": 57,
+			"updatedAt": "2020-05-21T00:10:59.038Z"
+		},
+		{
+			"firstname": "Theodore",
+			"lastname": "Kling",
+			"email": "Theodore.Kling@hotmail.com",
+			"age": 33,
+			"updatedAt": "2022-01-31T09:00:33.518Z"
+		},
+		{
+			"firstname": "Minerva",
+			"lastname": "Kunze",
+			"email": "Minerva_Kunze82@yahoo.com",
+			"age": 96,
+			"updatedAt": "2022-02-02T14:07:58.636Z"
+		},
+		{
+			"firstname": "Letha",
+			"lastname": "Boehm",
+			"email": "Letha50@gmail.com",
+			"age": 20,
+			"updatedAt": "2017-12-24T04:31:48.455Z"
+		},
+		{
+			"firstname": "Houston",
+			"lastname": "Lesch",
+			"email": "Houston34@hotmail.com",
+			"age": 48,
+			"updatedAt": "2019-01-28T07:43:59.386Z"
+		},
+		{
+			"firstname": "Ethelyn",
+			"lastname": "Schowalter",
+			"email": "Ethelyn_Schowalter@gmail.com",
+			"age": 89,
+			"updatedAt": "2021-06-07T23:32:11.349Z"
+		},
+		{
+			"firstname": "Queen",
+			"lastname": "Herman",
+			"email": "Queen18@hotmail.com",
+			"age": 17,
+			"updatedAt": "2017-07-01T11:52:32.830Z"
+		},
+		{
+			"firstname": "Richmond",
+			"lastname": "Larson",
+			"email": "Richmond.Larson@gmail.com",
+			"age": 43,
+			"updatedAt": "2014-12-24T19:02:08.005Z"
+		},
+		{
+			"firstname": "Estevan",
+			"lastname": "Hilpert",
+			"email": "Estevan.Hilpert14@hotmail.com",
+			"age": 74,
+			"updatedAt": "2021-12-28T04:46:52.231Z"
+		},
+		{
+			"firstname": "Marge",
+			"lastname": "Renner",
+			"email": "Marge7@yahoo.com",
+			"age": 65,
+			"updatedAt": "2019-06-30T16:39:45.523Z"
+		},
+		{
+			"firstname": "Athena",
+			"lastname": "Schuster",
+			"email": "Athena89@yahoo.com",
+			"age": 62,
+			"updatedAt": "2020-05-20T14:31:32.151Z"
+		},
+		{
+			"firstname": "Shany",
+			"lastname": "Kuphal",
+			"email": "Shany_Kuphal@yahoo.com",
+			"age": 86,
+			"updatedAt": "2017-03-18T00:56:32.689Z"
+		},
+		{
+			"firstname": "Chandler",
+			"lastname": "Dicki",
+			"email": "Chandler_Dicki@yahoo.com",
+			"age": 31,
+			"updatedAt": "2020-05-10T14:23:04.608Z"
+		},
+		{
+			"firstname": "Mallie",
+			"lastname": "Nienow",
+			"email": "Mallie.Nienow@hotmail.com",
+			"age": 42,
+			"updatedAt": "2017-10-17T16:50:15.383Z"
+		},
+		{
+			"firstname": "Coy",
+			"lastname": "Kub",
+			"email": "Coy.Kub24@gmail.com",
+			"age": 61,
+			"updatedAt": "2021-08-20T20:15:30.804Z"
+		},
+		{
+			"firstname": "Sandra",
+			"lastname": "Wyman",
+			"email": "Sandra.Wyman@gmail.com",
+			"age": 31,
+			"updatedAt": "2021-04-08T14:22:38.327Z"
+		},
+		{
+			"firstname": "Branson",
+			"lastname": "Barton",
+			"email": "Branson.Barton@hotmail.com",
+			"age": 64,
+			"updatedAt": "2022-07-13T23:51:09.681Z"
+		},
+		{
+			"firstname": "Darien",
+			"lastname": "Heathcote",
+			"email": "Darien_Heathcote@gmail.com",
+			"age": 89,
+			"updatedAt": "2020-06-21T09:05:49.187Z"
+		},
+		{
+			"firstname": "Cyrus",
+			"lastname": "Schamberger",
+			"email": "Cyrus41@yahoo.com",
+			"age": 46,
+			"updatedAt": "2018-10-23T08:22:24.823Z"
+		}
+	]
+}

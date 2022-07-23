@@ -8,20 +8,26 @@
 		"build": "tsc && vite build",
 		"preview": "vite preview",
 		"format": "prettier --write --check .",
-		"lint": "eslint ./**/*.{js,jsx,ts,tsx} --fix"
+		"lint": "eslint ./**/*.{js,jsx,ts,tsx} --fix",
+		"new:seed": "tsx src/test/seedPeople.ts"
 	},
 	"dependencies": {
+		"@tanstack/react-table": "^8.3.3",
 		"react": "^18.2.0",
 		"react-dom": "^18.2.0"
 	},
 	"devDependencies": {
+		"@faker-js/faker": "^7.3.0",
+		"@types/node": "^18.0.6",
 		"@types/react": "^18.0.15",
 		"@types/react-dom": "^18.0.6",
 		"@utilize/eslint-config": "^2.1.1",
 		"@utilize/prettier-config": "^1.1.0",
 		"@vitejs/plugin-react": "^2.0.0",
 		"eslint": "^8.20.0",
+		"fishery": "^2.2.2",
 		"prettier": "^2.7.1",
+		"tsx": "^3.8.0",
 		"typescript": "^4.6.4",
 		"vite": "^3.0.0",
 		"vitest": "^0.18.1"
