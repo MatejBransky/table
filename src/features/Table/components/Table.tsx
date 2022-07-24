@@ -19,7 +19,7 @@ export const Table = ({ headerGroups, rows, footerGroups }: TableProps) => {
 						data-testid={`headerGroup-${headerGroup.id}`}
 					>
 						{headerGroup.headers.map((header) => (
-							<th key={header.id}>
+							<th key={header.id} data-testid={header.id}>
 								{header.isPlaceholder
 									? null
 									: flexRender(
@@ -35,7 +35,7 @@ export const Table = ({ headerGroups, rows, footerGroups }: TableProps) => {
 				{rows.map((row) => (
 					<tr key={row.id}>
 						{row.getVisibleCells().map((cell) => (
-							<td key={cell.id} data-testid={`attribute-${cell.id}`}>
+							<td key={cell.id} data-testid={`cell_${cell.id}`}>
 								{flexRender(cell.column.columnDef.cell, cell.getContext())}
 							</td>
 						))}
