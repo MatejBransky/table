@@ -10,6 +10,7 @@ const columnHelper = createColumnHelper<PersonModel>();
 
 const columns = metadata.map((attribute) => {
 	return columnHelper.accessor(attribute.id, {
+		header: attribute.label,
 		cell: (info) => {
 			const value = info.getValue();
 
@@ -19,7 +20,7 @@ const columns = metadata.map((attribute) => {
 
 			return value;
 		},
-		footer: (info) => info.column.id,
+		footer: attribute.label,
 	});
 });
 
