@@ -1,0 +1,30 @@
+Co taková tabulka musí umět?
+
+- pagination
+- sorting
+- filters
+- search
+- views
+- batch operations
+- copy & paste (from JSON, HTML table,...)
+- edit/read mode
+- optimistic UI
+- clearly visible meta state
+- row features
+  - add rows
+  - edit cell
+  - row reordering
+  - hierarchy listing
+  - row selection
+  - delete rows
+  - groups
+- column features
+  - column (attribute) type
+  - column resizing
+  - column reordering
+  - column pining
+  - column visibility
+  - clever column sizing (based on content)
+  - add columns
+  - duplicate column
+  - delete columns
